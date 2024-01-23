@@ -24,7 +24,7 @@ This Discord self bot allows you to perform various actions using commands in yo
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/discord-self-bot.git
+    git clone https://github.com/zXayz/Discord-Self-Bot.git
     cd discord-self-bot
     ```
 2. Install the required dependencies:
